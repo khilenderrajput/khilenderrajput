@@ -42,8 +42,13 @@
 
 <!-- GitHub Contribution Snake / Pacman Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khilendrrajput/khilendrrajput/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khilendrrajput&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" alt="Snake Animation" width="100%" />
+</p>
+
 ## Featured Data Analytics Projects
 
 ### 1. Retail Customer Behavior & Shopping Trends Analysis
