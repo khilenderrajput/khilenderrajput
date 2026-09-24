@@ -1,18 +1,18 @@
-# Hey ! This is Khilendr Rajput
+# Hey ! This is Khilender Rajput
 
 ## About me
 
-- <sub>💻 **B.Tech Computer Science Engineering (AI) Student** at Teerthanker Mahaveer University, Moradabad</sub>[cite: 3]
-- <sub>📊 **Aspiring Data Analyst & ML Enthusiast** passionate about turning raw data into clear insights</sub>[cite: 3]
-- <sub>🔍 Skilled in **Exploratory Data Analysis (EDA)**, data cleaning, and visualization using Python, SQL, and Power BI</sub>[cite: 3]
-- <sub>💡 Strong foundation in problem-solving, data-driven decision making, and customer segmentation</sub>[cite: 3]
+- 💻 **B.Tech Computer Science Engineering (AI) Student** at Teerthanker Mahaveer University, Moradabad[cite: 3]
+- 📊 **Aspiring Data Analyst & ML Enthusiast** passionate about turning raw data into clear insights[cite: 3]
+- 🔍 Skilled in **Exploratory Data Analysis (EDA)**, data cleaning, and visualization using Python, SQL, and Power BI[cite: 3]
+- 💡 Strong foundation in problem-solving, data-driven decision making, and customer segmentation[cite: 3]
 
 ## What I Do
 
-- <sub>📊 Perform end-to-end data analytics workflow (data cleaning, transformation, and modeling)</sub>[cite: 3]
-- <sub>💻 Write complex SQL queries and Python scripts to extract trends and patterns</sub>[cite: 3]
-- <sub>📈 Design and publish interactive Power BI dashboards for KPI tracking and reporting</sub>[cite: 3]
-- <sub>🤖 Build and train Machine Learning models and predictive analytics systems</sub>[cite: 3]
+- 📊 Perform end-to-end data analytics workflow (data cleaning, transformation, and modeling)[cite: 3]
+- 💻 Write complex SQL queries and Python scripts to extract trends and patterns[cite: 3]
+- 📈 Design and publish interactive Power BI dashboards for KPI tracking and reporting[cite: 3]
+- 🤖 Build and train Machine Learning models and predictive analytics systems[cite: 3]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khilendrrajput95@gmail.com)[cite: 3]
@@ -42,17 +42,17 @@
 
 ## Featured Data Analytics Projects
 
-### <sub>1. Retail Customer Behavior & Shopping Trends Analysis</sub>[cite: 3]
-- <sub>**Tech Stack:** Python (Pandas), SQL, Power BI, GitHub</sub>[cite: 3]
-- <sub>**Overview:** Defined a retail data analytics problem statement, cleaned and transformed transaction data using Pandas, and used SQL queries to uncover purchasing patterns. Designed an interactive Power BI dashboard to visualize consumer trends.</sub>[cite: 3]
+### 1. Retail Customer Behavior & Shopping Trends Analysis[cite: 3]
+- **Tech Stack:** Python (Pandas), SQL, Power BI, GitHub[cite: 3]
+- **Overview:** Defined a retail data analytics problem statement, cleaned and transformed transaction data using Pandas, and used SQL queries to uncover purchasing patterns. Designed an interactive Power BI dashboard to visualize consumer trends[cite: 3].
 
-### <sub>2. Credit Card Financial Dashboard</sub>[cite: 3]
-- <sub>**Tech Stack:** Power BI, SQL</sub>[cite: 3]
-- <sub>**Overview:** Developed an interactive financial dashboard using SQL-based data to monitor key performance indicators (KPIs), spending patterns, and financial trends across various customer segments.</sub>[cite: 3]
+### 2. Credit Card Financial Dashboard[cite: 3]
+- **Tech Stack:** Power BI, SQL[cite: 3]
+- **Overview:** Developed an interactive financial dashboard using SQL-based data to monitor key performance indicators (KPIs), spending patterns, and financial trends across various customer segments[cite: 3].
 
-### <sub>3. OTT Subscription Churn & Revenue Analytics</sub>[cite: 3]
-- <sub>**Tech Stack:** Python, SQL, Power BI</sub>[cite: 3]
-- <sub>**Overview:** Engineered an end-to-end churn pipeline integrating multi-table subscriber metrics (20+ KPIs). Identified MRR leakage, built a churn risk-scoring customer segmentation model, and proposed data-backed retention strategies.</sub>[cite: 3]
+### 3. OTT Subscription Churn & Revenue Analytics[cite: 3]
+- **Tech Stack:** Python, SQL, Power BI[cite: 3]
+- **Overview:** Engineered an end-to-end churn pipeline integrating multi-table subscriber metrics (20+ KPIs). Identified MRR leakage, built a churn risk-scoring customer segmentation model, and proposed data-backed retention strategies[cite: 3].
 
 ---
 
