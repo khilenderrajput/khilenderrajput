@@ -1,4 +1,4 @@
-# Hey ! This is Khilender Rajput
+# Hey ! This is Khilendr Rajput
 
 ## About me
 
@@ -40,6 +40,15 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<!-- Contributions Snake Animation / Live Game Style Graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ## Featured Data Analytics Projects
 
 ### 1. Retail Customer Behavior & Shopping Trends Analysis[cite: 3]
@@ -53,9 +62,3 @@
 ### 3. OTT Subscription Churn & Revenue Analytics[cite: 3]
 - **Tech Stack:** Python, SQL, Power BI[cite: 3]
 - **Overview:** Engineered an end-to-end churn pipeline integrating multi-table subscriber metrics (20+ KPIs). Identified MRR leakage, built a churn risk-scoring customer segmentation model, and proposed data-backed retention strategies[cite: 3].
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
