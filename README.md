@@ -1,16 +1,10 @@
-<p align="center">
-  <h1 align="center">Hey ! This is Khilendr Rajput</h1>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,2,15,25,30&height=120&section=header&text=B.Tech%20CSE%20(AI)%20Student%20&%20Data%20Analyst&fontSize=22&fontColor=ffffff" width="100%" />
-</p>
+# <h3 align="left">Hey ! This is Khilender Rajput</h3>
 
 ## About me
 
-- 💻 B.Tech Computer Science Engineering (AI) Student at Teerthanker Mahaveer University, Moradabad[cite: 3]
-- 📊 Aspiring Data Analyst passionate about turning raw data into clear, actionable insights[cite: 3]
-- 🔍 Skilled in Exploratory Data Analysis (EDA), data cleaning, and visualization using Python (Pandas), SQL, and Power BI[cite: 3]
+- 🎓 **B.Tech Computer Science Engineering (AI) Student** at Teerthanker Mahaveer University, Moradabad[cite: 3]
+- 📊 **Aspiring Data Analyst** passionate about turning raw data into clear, actionable insights[cite: 3]
+- 🔍 Skilled in **Exploratory Data Analysis (EDA)**, data cleaning, and visualization using Python, SQL, and Power BI[cite: 3]
 - 💡 Strong foundation in problem-solving, data-driven decision making, and customer segmentation[cite: 3]
 - 🚀 Focused on building impactful analytics pipelines and real-world data projects[cite: 3]
 
@@ -28,12 +22,18 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -57,3 +57,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
