@@ -43,11 +43,17 @@
 <!-- GitHub Contribution Snake / Pacman Animation -->
 <div align="center">
 
-## 🟡 My Contribution Activity
+<h2>📊 My Contribution Activity</h2>
 
-<img src="https://raw.githubusercontent.com/khilenderrajput/khilenderrajput/output/pacman-contribution-graph.svg" width="100%">
+<img
+  src="https://raw.githubusercontent.com/khilenderrajput/khilenderrajput/output/pacman-contribution-graph-dark.svg"
+  alt="Pac-Man Contribution Graph"
+  width="100%"
+/>
 
 </div>
+
+
 
 ## Featured Data Analytics Projects
 
