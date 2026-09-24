@@ -2,7 +2,7 @@
 
 ## About me
 
-- 💻 **B.Tech Computer Science Engineering (AI) Student** at Teerthanker Mahaveer University, Moradabad
+- 🎓 **B.Tech Computer Science Engineering (AI) Student** at Teerthanker Mahaveer University, Moradabad
 - 📊 **Aspiring Data Analyst & ML Enthusiast** passionate about turning raw data into clear insights
 - 🔍 Skilled in **Exploratory Data Analysis (EDA)**, data cleaning, and visualization using Python, SQL, and Power BI
 - 💡 Strong foundation in problem-solving, data-driven decision making, and customer segmentation
