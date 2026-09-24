@@ -43,7 +43,7 @@
 <!-- GitHub Contribution Snake / Pacman Animation -->
 <div align="center">
 
-<h2>📊 My Contribution Activity</h2>
+
 
 <img
   src="https://raw.githubusercontent.com/khilenderrajput/khilenderrajput/output/pacman-contribution-graph-dark.svg"
@@ -53,18 +53,3 @@
 
 </div>
 
-
-
-## Featured Data Analytics Projects
-
-### 1. Retail Customer Behavior & Shopping Trends Analysis
-- **Tech Stack:** Python (Pandas), SQL, Power BI, GitHub
-- **Overview:** Defined a retail data analytics problem statement, cleaned and transformed transaction data using Pandas, and used SQL queries to uncover purchasing patterns. Designed an interactive Power BI dashboard to visualize consumer trends.
-
-### 2. Credit Card Financial Dashboard
-- **Tech Stack:** Power BI, SQL
-- **Overview:** Developed an interactive financial dashboard using SQL-based data to monitor key performance indicators (KPIs), spending patterns, and financial trends across various customer segments.
-
-### 3. OTT Subscription Churn & Revenue Analytics
-- **Tech Stack:** Python, SQL, Power BI
-- **Overview:** Engineered an end-to-end churn pipeline integrating multi-table subscriber metrics (20+ KPIs). Identified MRR leakage, built a churn risk-scoring customer segmentation model, and proposed data-backed retention strategies.
