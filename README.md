@@ -40,12 +40,14 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<!-- Contributions Snake Animation -->
-<!-- Contributions Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khilendrrajput/khilendrrajput/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
+<!-- GitHub Contribution Snake / Pacman Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khilendrrajput/khilendrrajput/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khilendrrajput/khilendrrajput/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khilendrrajput/khilendrrajput/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 ## Featured Data Analytics Projects
 
 ### 1. Retail Customer Behavior & Shopping Trends Analysis
